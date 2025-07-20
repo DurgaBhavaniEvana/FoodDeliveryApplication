@@ -39,7 +39,7 @@ Start the backend:
 bash
 Copy
 Edit
-cd backend  
+cd client  
 npm install  
 npm start  
 
@@ -47,7 +47,7 @@ Start the frontend:
 bash
 Copy
 Edit
-cd frontend  
+cd server  
 npm install  
 npm start  
 Visit http://localhost:3000 in your browser.
