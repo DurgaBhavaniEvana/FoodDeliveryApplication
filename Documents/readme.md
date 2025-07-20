@@ -1,1 +1,1 @@
-Document and Template of project in pdf.
+Document and Templates of project in pdf.
